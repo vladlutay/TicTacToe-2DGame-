@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{C8AD204F-AFFA-AA70-C0C1-F1A02F547BF7}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/MiniMaxLogic.cs">
+    <Files>
+      <File FileName="Assets/Scripts/MiniMaxLogic.cs" Line="254" Column="53" />
+      <File FileName="Assets/Scripts/GameHandler.cs" Line="82" Column="25" />
+      <File FileName="Assets/Scripts/LevelsController.cs" Line="29" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Tic-tac-toe" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Scripts" expanded="True">
+                <Node name="MiniMaxLogic.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="0d3e275a-6cd8-4da7-bb86-031b06dab046" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
